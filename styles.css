@@ -1,0 +1,350 @@
+.full{
+    padding-top: 250px;
+}
+
+
+/* row one start */
+
+#rowone {
+    width: 600px;
+    padding: 10px;
+    padding-top: 20px;
+    margin: auto;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+
+
+
+
+.firstBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.firstBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.secondBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.secondBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;}
+
+.thirdBox{
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.thirdBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.fourthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;    
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.fourthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+/* row one end */
+
+/* row two start */
+
+#rowtwo{
+    width: 600px;
+    height: 0%;
+    padding: 10px;
+    margin: auto;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+
+
+
+.fifthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;   
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.fifthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.sixthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.sixthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.seventhBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.seventhBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.eighthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.eighthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+/* row two end*/
+
+/* row three start */
+
+#rowthree { 
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+
+
+
+.ninthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.ninthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.tenthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.tenthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.eleventhBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.eleventhBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.twelfthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.twelfthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+/* row three end */
+
+/* row four start */
+
+#rowfour {
+    width: 600px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin:  auto;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+
+
+
+.thirteenthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.thirteenthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.fourteenthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.fourteenthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.fifteenthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.fifteenthBox:hover {
+    transform: scale(1.1);
+    background: #ff800a;
+    box-shadow: 2px 2px 2px;
+}
+
+.sixteenthBox {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.sixteenthBox:hover {
+    transform: scale(1.1);
+    background: blue;
+    box-shadow: 2px 2px 2px;
+}
+
+/* row four end */
+
+.myStyle {
+    flex: auto;
+    padding:10px;
+    width: 130px;
+    height: 60px;
+    background: orange;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
